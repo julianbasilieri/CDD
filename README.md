@@ -5,7 +5,7 @@
 - Python 3.8+
 - Instalar dependencias:
   ```
-  pip install pandas kaggle tqdm fpdf matplotlib
+  pip install pandas kaggle fpdf matplotlib
   ```
 
 - Configurar la API de Kaggle:
